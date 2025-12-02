@@ -63,11 +63,11 @@
             //               |     |      |      |      |        |  |       |      |       |       |      |
 
             bindings = <
-&studio_unlock  &kp F1          &kp F2         &kp F3        &kp F4     &kp F5                       &kp F6     &kp F7          &kp F8     &kp F9     &kp F10   &kp F11
-&none           &kp N1          &kp N2         &kp N3        &kp N4     &kp N5                       &none      &kp N7          &kp N8     &kp N9     &kp N0    &kp F12
-&none           &kp LEFT_ARROW  &kp DOWN       &kp UP_ARROW  &kp RIGHT  &kp PRCNT                    &kp CARET  &kp UNDERSCORE  &kp EQUAL  &kp PIPE   &none     &kp PIPE
-&trans          &kp HOME        &kp PAGE_DOWN  &kp PAGE_UP   &kp END    &kp RBRC   &trans    &trans  &kp LBKT   &kp RBKT        &kp SEMI   &kp COLON  &kp BSLH  &trans
-                                &trans         &trans        &trans     &trans     &trans    &trans  &trans     &trans          &trans     &trans
+&studio_unlock  &kp F1          &kp F2         &kp F3        &kp F4     &kp F5                       &kp F6     &kp F7     &kp F8     &kp F9     &kp F10   &kp F11
+&none           &kp N1          &kp N2         &kp N3        &kp N4     &kp N5                       &none      &kp N7     &kp N8     &kp N9     &kp N0    &kp F12
+&none           &kp LEFT_ARROW  &kp DOWN       &kp UP_ARROW  &kp RIGHT  &kp PRCNT                    &kp CARET  &kp MINUS  &kp EQUAL  &kp PIPE   &none     &kp PIPE
+&trans          &kp HOME        &kp PAGE_DOWN  &kp PAGE_UP   &kp END    &kp RBRC   &trans    &trans  &kp LBKT   &kp RBKT   &kp SEMI   &kp COLON  &kp BSLH  &trans
+                                &trans         &trans        &trans     &trans     &trans    &trans  &trans     &trans     &trans     &trans
             >;
 
             sensor-bindings =
