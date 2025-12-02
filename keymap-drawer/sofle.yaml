@@ -16,29 +16,29 @@ layers:
   - F10
   - F11
   - ''
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
   - ''
-  - '7'
-  - '8'
-  - '9'
-  - '0'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - F12
   - ''
   - LEFT ARROW
   - DOWN
   - UP ARROW
   - RIGHT
-  - '%'
-  - ^
+  - ''
+  - ''
   - '-'
   - '='
   - '|'
+  - '`'
   - ''
-  - '|'
   - {t: ▽, type: trans}
   - HOME
   - PAGE DOWN
@@ -47,12 +47,12 @@ layers:
   - '}'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '['
-  - ']'
-  - ;
-  - ':'
-  - \
-  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
